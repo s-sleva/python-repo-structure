@@ -4,7 +4,7 @@ for Python projects that use PyTest for unit testing.  The project is called
 
 The directory structure is as follows:
 
-`my-project/
+```my-project/
 ├── .gitignore
 ├── pyproject.toml
 ├── README.md
@@ -16,7 +16,7 @@ The directory structure is as follows:
 └── tests
     ├── __init__.py
     ├── test_module_1.py
-    └── test_module_2.py`
+    └── test_module_2.py```
 
 .gitignore: Specifies files and directories that should be ignored by Git 
     (e.g., __pycache__, virtual environments, editor configuration files).
