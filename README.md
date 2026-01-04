@@ -1,6 +1,6 @@
 This example Python project presents a suggested project/directory structure
 for Python projects that use PyTest for unit testing.  The project is called
-'project_01'.
+'my-project'.
 
 The directory structure is as follows:
 
